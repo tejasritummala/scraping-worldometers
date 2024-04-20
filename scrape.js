@@ -40,10 +40,12 @@ var puppeteer_1 = require("puppeteer");
 var fs = require('fs');
 function scrapePopulation(url) {
     return __awaiter(this, void 0, void 0, function () {
-        var browser, page, title, header, tableData, jsonData;
+        var browser, page, title, header, tableData, jsonData, error_1;
         return __generator(this, function (_a) {
             switch (_a.label) {
-                case 0: return [4 /*yield*/, puppeteer_1.default.launch()];
+                case 0:
+                    _a.trys.push([0, 8, , 9]);
+                    return [4 /*yield*/, puppeteer_1.default.launch()];
                 case 1:
                     browser = _a.sent();
                     return [4 /*yield*/, browser.newPage()];
@@ -81,7 +83,12 @@ function scrapePopulation(url) {
                     return [4 /*yield*/, browser.close()];
                 case 7:
                     _a.sent();
-                    return [2 /*return*/];
+                    return [3 /*break*/, 9];
+                case 8:
+                    error_1 = _a.sent();
+                    console.error('Error fetching data:', error_1);
+                    return [3 /*break*/, 9];
+                case 9: return [2 /*return*/];
             }
         });
     });
