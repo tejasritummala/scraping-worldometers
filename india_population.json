@@ -1,0 +1,697 @@
+[
+  {
+    "Year": "2024",
+    "Population": "1,441,719,852",
+    "Yearly %  Change": "0.92 %",
+    "Yearly Change": "13,092,189",
+    "Migrants (net)": "-486,784",
+    "Median Age": "28.6",
+    "Fertility Rate": "1.98",
+    "Density (P/Km²)": "485",
+    "Urban Pop %": "36.8 %",
+    "Urban Population": "530,387,142",
+    "Country's Share of World Pop": "17.76 %",
+    "World Population": "8,118,835,999",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "2023",
+    "Population": "1,428,627,663",
+    "Yearly %  Change": "0.81 %",
+    "Yearly Change": "11,454,490",
+    "Migrants (net)": "-486,136",
+    "Median Age": "28.2",
+    "Fertility Rate": "2.00",
+    "Density (P/Km²)": "481",
+    "Urban Pop %": "36.3 %",
+    "Urban Population": "518,239,122",
+    "Country's Share of World Pop": "17.76 %",
+    "World Population": "8,045,311,447",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "2022",
+    "Population": "1,417,173,173",
+    "Yearly %  Change": "0.68 %",
+    "Yearly Change": "9,609,331",
+    "Migrants (net)": "-487,303",
+    "Median Age": "27.9",
+    "Fertility Rate": "2.01",
+    "Density (P/Km²)": "477",
+    "Urban Pop %": "35.7 %",
+    "Urban Population": "506,304,869",
+    "Country's Share of World Pop": "17.77 %",
+    "World Population": "7,975,105,156",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "2020",
+    "Population": "1,396,387,127",
+    "Yearly %  Change": "0.96 %",
+    "Yearly Change": "13,275,077",
+    "Migrants (net)": "-34,772",
+    "Median Age": "27.3",
+    "Fertility Rate": "2.05",
+    "Density (P/Km²)": "470",
+    "Urban Pop %": "34.6 %",
+    "Urban Population": "483,098,640",
+    "Country's Share of World Pop": "17.81 %",
+    "World Population": "7,840,952,880",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "2015",
+    "Population": "1,322,866,505",
+    "Yearly %  Change": "1.29 %",
+    "Yearly Change": "16,450,577",
+    "Migrants (net)": "-475,094",
+    "Median Age": "25.5",
+    "Fertility Rate": "2.29",
+    "Density (P/Km²)": "445",
+    "Urban Pop %": "32.4 %",
+    "Urban Population": "429,069,459",
+    "Country's Share of World Pop": "17.81 %",
+    "World Population": "7,426,597,537",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "2010",
+    "Population": "1,240,613,620",
+    "Yearly %  Change": "1.45 %",
+    "Yearly Change": "17,194,981",
+    "Migrants (net)": "-380,087",
+    "Median Age": "24.0",
+    "Fertility Rate": "2.60",
+    "Density (P/Km²)": "417",
+    "Urban Pop %": "30.7 %",
+    "Urban Population": "380,744,554",
+    "Country's Share of World Pop": "17.76 %",
+    "World Population": "6,985,603,105",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "2005",
+    "Population": "1,154,638,713",
+    "Yearly %  Change": "1.73 %",
+    "Yearly Change": "19,001,008",
+    "Migrants (net)": "-550,186",
+    "Median Age": "22.6",
+    "Fertility Rate": "2.96",
+    "Density (P/Km²)": "388",
+    "Urban Pop %": "29.0 %",
+    "Urban Population": "334,479,406",
+    "Country's Share of World Pop": "17.61 %",
+    "World Population": "6,558,176,119",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "2000",
+    "Population": "1,059,633,675",
+    "Yearly %  Change": "1.90 %",
+    "Yearly Change": "19,070,909",
+    "Migrants (net)": "-149,966",
+    "Median Age": "21.6",
+    "Fertility Rate": "3.35",
+    "Density (P/Km²)": "356",
+    "Urban Pop %": "27.5 %",
+    "Urban Population": "291,350,282",
+    "Country's Share of World Pop": "17.23 %",
+    "World Population": "6,148,898,975",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1995",
+    "Population": "964,279,129",
+    "Yearly %  Change": "2.07 %",
+    "Yearly Change": "18,765,393",
+    "Migrants (net)": "-57,139",
+    "Median Age": "20.7",
+    "Fertility Rate": "3.65",
+    "Density (P/Km²)": "324",
+    "Urban Pop %": "26.5 %",
+    "Urban Population": "255,558,824",
+    "Country's Share of World Pop": "16.79 %",
+    "World Population": "5,743,219,454",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1990",
+    "Population": "870,452,165",
+    "Yearly %  Change": "2.21 %",
+    "Yearly Change": "18,042,016",
+    "Migrants (net)": "108,465",
+    "Median Age": "20.0",
+    "Fertility Rate": "4.05",
+    "Density (P/Km²)": "293",
+    "Urban Pop %": "25.5 %",
+    "Urban Population": "222,296,728",
+    "Country's Share of World Pop": "16.37 %",
+    "World Population": "5,316,175,862",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1985",
+    "Population": "780,242,084",
+    "Yearly %  Change": "2.29 %",
+    "Yearly Change": "16,682,740",
+    "Migrants (net)": "-112,781",
+    "Median Age": "19.5",
+    "Fertility Rate": "4.43",
+    "Density (P/Km²)": "262",
+    "Urban Pop %": "24.4 %",
+    "Urban Population": "190,321,782",
+    "Country's Share of World Pop": "16.05 %",
+    "World Population": "4,861,730,613",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1980",
+    "Population": "696,828,385",
+    "Yearly %  Change": "2.25 %",
+    "Yearly Change": "14,660,833",
+    "Migrants (net)": "202,323",
+    "Median Age": "19.0",
+    "Fertility Rate": "4.78",
+    "Density (P/Km²)": "234",
+    "Urban Pop %": "23.1 %",
+    "Urban Population": "160,941,941",
+    "Country's Share of World Pop": "15.68 %",
+    "World Population": "4,444,007,706",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1975",
+    "Population": "623,524,219",
+    "Yearly %  Change": "2.26 %",
+    "Yearly Change": "13,204,584",
+    "Migrants (net)": "-225,989",
+    "Median Age": "18.6",
+    "Fertility Rate": "5.20",
+    "Density (P/Km²)": "210",
+    "Urban Pop %": "21.3 %",
+    "Urban Population": "132,533,810",
+    "Country's Share of World Pop": "15.32 %",
+    "World Population": "4,069,437,231",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1970",
+    "Population": "557,501,301",
+    "Yearly %  Change": "2.20 %",
+    "Yearly Change": "11,477,391",
+    "Migrants (net)": "-45,792",
+    "Median Age": "18.3",
+    "Fertility Rate": "5.62",
+    "Density (P/Km²)": "188",
+    "Urban Pop %": "19.6 %",
+    "Urban Population": "109,388,950",
+    "Country's Share of World Pop": "15.09 %",
+    "World Population": "3,695,390,336",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1965",
+    "Population": "500,114,346",
+    "Yearly %  Change": "2.32 %",
+    "Yearly Change": "10,831,953",
+    "Migrants (net)": "19,077",
+    "Median Age": "18.5",
+    "Fertility Rate": "5.94",
+    "Density (P/Km²)": "168",
+    "Urban Pop %": "18.7 %",
+    "Urban Population": "93,493,844",
+    "Country's Share of World Pop": "14.99 %",
+    "World Population": "3,337,111,983",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1960",
+    "Population": "445,954,579",
+    "Yearly %  Change": "2.27 %",
+    "Yearly Change": "9,475,317",
+    "Migrants (net)": "52,264",
+    "Median Age": "19.2",
+    "Fertility Rate": "5.92",
+    "Density (P/Km²)": "150",
+    "Urban Pop %": "18.1 %",
+    "Urban Population": "80,565,723",
+    "Country's Share of World Pop": "14.77 %",
+    "World Population": "3,019,233,434",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "1955",
+    "Population": "398,577,992",
+    "Yearly %  Change": "2.23 %",
+    "Yearly Change": "8,311,378",
+    "Migrants (net)": "-115,107",
+    "Median Age": "19.7",
+    "Fertility Rate": "5.91",
+    "Density (P/Km²)": "134",
+    "Urban Pop %": "18.1 %",
+    "Urban Population": "71,958,495",
+    "Country's Share of World Pop": "14.51 %",
+    "World Population": "2,746,072,141",
+    "IndiaGlobal Rank": "2"
+  },
+  {
+    "Year": "2025",
+    "Population": "1,454,606,724",
+    "Yearly %  Change": "0.82 %",
+    "Yearly Change": "11,643,919",
+    "Migrants (net)": "-486,077",
+    "Median Age": "29.0",
+    "Fertility Rate": "1.97",
+    "Density (P/Km²)": "489",
+    "Urban Pop %": "37.3 %",
+    "Urban Population": "542,742,539",
+    "Country's Share of World Pop": "17.76 %",
+    "World Population": "8,191,988,453",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "2030",
+    "Population": "1,514,994,080",
+    "Yearly %  Change": "0.82 %",
+    "Yearly Change": "12,077,471",
+    "Migrants (net)": "-486,942",
+    "Median Age": "30.9",
+    "Fertility Rate": "1.91",
+    "Density (P/Km²)": "510",
+    "Urban Pop %": "40.1 %",
+    "Urban Population": "607,341,981",
+    "Country's Share of World Pop": "17.73 %",
+    "World Population": "8,546,141,327",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "2035",
+    "Population": "1,567,802,259",
+    "Yearly %  Change": "0.69 %",
+    "Yearly Change": "10,561,636",
+    "Migrants (net)": "-496,692",
+    "Median Age": "32.8",
+    "Fertility Rate": "1.86",
+    "Density (P/Km²)": "527",
+    "Urban Pop %": "43.1 %",
+    "Urban Population": "675,456,367",
+    "Country's Share of World Pop": "17.66 %",
+    "World Population": "8,879,397,401",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "2040",
+    "Population": "1,611,676,333",
+    "Yearly %  Change": "0.55 %",
+    "Yearly Change": "8,774,815",
+    "Migrants (net)": "-496,507",
+    "Median Age": "34.6",
+    "Fertility Rate": "1.83",
+    "Density (P/Km²)": "542",
+    "Urban Pop %": "46.2 %",
+    "Urban Population": "744,380,367",
+    "Country's Share of World Pop": "17.54 %",
+    "World Population": "9,188,250,492",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "2045",
+    "Population": "1,645,863,187",
+    "Yearly %  Change": "0.42 %",
+    "Yearly Change": "6,837,371",
+    "Migrants (net)": "-495,892",
+    "Median Age": "36.4",
+    "Fertility Rate": "1.81",
+    "Density (P/Km²)": "554",
+    "Urban Pop %": "49.3 %",
+    "Urban Population": "811,749,463",
+    "Country's Share of World Pop": "17.38 %",
+    "World Population": "9,467,543,575",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "2050",
+    "Population": "1,670,490,596",
+    "Yearly %  Change": "0.30 %",
+    "Yearly Change": "4,925,482",
+    "Migrants (net)": "",
+    "Median Age": "38.1",
+    "Fertility Rate": "1.78",
+    "Density (P/Km²)": "562",
+    "Urban Pop %": "52.5 %",
+    "Urban Population": "876,613,025",
+    "Country's Share of World Pop": "17.20 %",
+    "World Population": "9,709,491,761",
+    "IndiaGlobal Rank": "1"
+  },
+  {
+    "Year": "1",
+    "Population": "Mumbai",
+    "Yearly %  Change": "12,691,836"
+  },
+  {
+    "Year": "2",
+    "Population": "Delhi",
+    "Yearly %  Change": "10,927,986"
+  },
+  {
+    "Year": "3",
+    "Population": "Bengaluru",
+    "Yearly %  Change": "5,104,047"
+  },
+  {
+    "Year": "4",
+    "Population": "Kolkata",
+    "Yearly %  Change": "4,631,392"
+  },
+  {
+    "Year": "5",
+    "Population": "Chennai",
+    "Yearly %  Change": "4,328,063"
+  },
+  {
+    "Year": "6",
+    "Population": "Ahmedabad",
+    "Yearly %  Change": "3,719,710"
+  },
+  {
+    "Year": "7",
+    "Population": "Hyderabad",
+    "Yearly %  Change": "3,597,816"
+  },
+  {
+    "Year": "8",
+    "Population": "Pune",
+    "Yearly %  Change": "2,935,744"
+  },
+  {
+    "Year": "9",
+    "Population": "Surat",
+    "Yearly %  Change": "2,894,504"
+  },
+  {
+    "Year": "10",
+    "Population": "Kanpur",
+    "Yearly %  Change": "2,823,249"
+  },
+  {
+    "Year": "11",
+    "Population": "Jaipur",
+    "Yearly %  Change": "2,711,758"
+  },
+  {
+    "Year": "12",
+    "Population": "Navi Mumbai",
+    "Yearly %  Change": "2,600,000"
+  },
+  {
+    "Year": "13",
+    "Population": "Lucknow",
+    "Yearly %  Change": "2,472,011"
+  },
+  {
+    "Year": "14",
+    "Population": "Nagpur",
+    "Yearly %  Change": "2,228,018"
+  },
+  {
+    "Year": "15",
+    "Population": "Indore",
+    "Yearly %  Change": "1,837,041"
+  },
+  {
+    "Year": "16",
+    "Population": "Patna",
+    "Yearly %  Change": "1,599,920"
+  },
+  {
+    "Year": "17",
+    "Population": "Bhopal",
+    "Yearly %  Change": "1,599,914"
+  },
+  {
+    "Year": "18",
+    "Population": "Ludhiana",
+    "Yearly %  Change": "1,545,368"
+  },
+  {
+    "Year": "19",
+    "Population": "Tirunelveli",
+    "Yearly %  Change": "1,435,844"
+  },
+  {
+    "Year": "20",
+    "Population": "Agra",
+    "Yearly %  Change": "1,430,055"
+  },
+  {
+    "Year": "21",
+    "Population": "Vadodara",
+    "Yearly %  Change": "1,409,476"
+  },
+  {
+    "Year": "22",
+    "Population": "Gorakhpur",
+    "Yearly %  Change": "1,324,570"
+  },
+  {
+    "Year": "23",
+    "Population": "Nashik",
+    "Yearly %  Change": "1,289,497"
+  },
+  {
+    "Year": "24",
+    "Population": "Pimpri",
+    "Yearly %  Change": "1,284,606"
+  },
+  {
+    "Year": "25",
+    "Population": "Kalyan",
+    "Yearly %  Change": "1,262,255"
+  },
+  {
+    "Year": "26",
+    "Population": "Thane",
+    "Yearly %  Change": "1,261,517"
+  },
+  {
+    "Year": "27",
+    "Population": "Meerut",
+    "Yearly %  Change": "1,223,184"
+  },
+  {
+    "Year": "28",
+    "Population": "Nowrangapur",
+    "Yearly %  Change": "1,220,946"
+  },
+  {
+    "Year": "29",
+    "Population": "Faridabad",
+    "Yearly %  Change": "1,220,229"
+  },
+  {
+    "Year": "30",
+    "Population": "Ghaziabad",
+    "Yearly %  Change": "1,199,191"
+  },
+  {
+    "Year": "31",
+    "Population": "Dombivli",
+    "Yearly %  Change": "1,193,000"
+  },
+  {
+    "Year": "32",
+    "Population": "Rajkot",
+    "Yearly %  Change": "1,177,362"
+  },
+  {
+    "Year": "33",
+    "Population": "Varanasi",
+    "Yearly %  Change": "1,164,404"
+  },
+  {
+    "Year": "34",
+    "Population": "Amritsar",
+    "Yearly %  Change": "1,092,450"
+  },
+  {
+    "Year": "35",
+    "Population": "Allahabad",
+    "Yearly %  Change": "1,073,438"
+  },
+  {
+    "Year": "36",
+    "Population": "Visakhapatnam",
+    "Yearly %  Change": "1,063,178"
+  },
+  {
+    "Year": "37",
+    "Population": "Teni",
+    "Yearly %  Change": "1,034,724"
+  },
+  {
+    "Year": "38",
+    "Population": "Jabalpur",
+    "Yearly %  Change": "1,030,168"
+  },
+  {
+    "Year": "39",
+    "Population": "Haora",
+    "Yearly %  Change": "1,027,672"
+  },
+  {
+    "Year": "40",
+    "Population": "Aurangabad",
+    "Yearly %  Change": "1,016,441"
+  },
+  {
+    "Year": "41",
+    "Population": "Shivaji Nagar",
+    "Yearly %  Change": "1,000,000"
+  },
+  {
+    "Year": "42",
+    "Population": "Solapur",
+    "Yearly %  Change": "997,281"
+  },
+  {
+    "Year": "43",
+    "Population": "Srinagar",
+    "Yearly %  Change": "975,857"
+  },
+  {
+    "Year": "44",
+    "Population": "Chandigarh",
+    "Yearly %  Change": "960,787"
+  },
+  {
+    "Year": "45",
+    "Population": "Coimbatore",
+    "Yearly %  Change": "959,823"
+  },
+  {
+    "Year": "46",
+    "Population": "Jodhpur",
+    "Yearly %  Change": "921,476"
+  },
+  {
+    "Year": "47",
+    "Population": "Madurai",
+    "Yearly %  Change": "909,908"
+  },
+  {
+    "Year": "48",
+    "Population": "Guwahati",
+    "Yearly %  Change": "899,094"
+  },
+  {
+    "Year": "49",
+    "Population": "Gwalior",
+    "Yearly %  Change": "882,458"
+  },
+  {
+    "Year": "50",
+    "Population": "Vijayawada",
+    "Yearly %  Change": "874,587"
+  },
+  {
+    "Year": "51",
+    "Population": "Mysore",
+    "Yearly %  Change": "868,313"
+  },
+  {
+    "Year": "52",
+    "Population": "Ranchi",
+    "Yearly %  Change": "846,454"
+  },
+  {
+    "Year": "53",
+    "Population": "Hubli",
+    "Yearly %  Change": "840,214"
+  },
+  {
+    "Year": "54",
+    "Population": "Jalandhar",
+    "Yearly %  Change": "785,178"
+  },
+  {
+    "Year": "55",
+    "Population": "Thiruvananthapuram",
+    "Yearly %  Change": "784,153"
+  },
+  {
+    "Year": "56",
+    "Population": "Salem",
+    "Yearly %  Change": "778,396"
+  },
+  {
+    "Year": "57",
+    "Population": "Tiruchirappalli",
+    "Yearly %  Change": "775,484"
+  },
+  {
+    "Year": "58",
+    "Population": "Kota",
+    "Yearly %  Change": "763,088"
+  },
+  {
+    "Year": "59",
+    "Population": "Bhubaneshwar",
+    "Yearly %  Change": "762,243"
+  },
+  {
+    "Year": "60",
+    "Population": "Aligarh",
+    "Yearly %  Change": "753,207"
+  },
+  {
+    "Year": "61",
+    "Population": "Bareilly",
+    "Yearly %  Change": "745,435"
+  },
+  {
+    "Year": "62",
+    "Population": "Moradabad",
+    "Yearly %  Change": "721,139"
+  },
+  {
+    "Year": "63",
+    "Population": "Bhiwandi",
+    "Yearly %  Change": "707,035"
+  },
+  {
+    "Year": "64",
+    "Population": "Raipur",
+    "Yearly %  Change": "679,995"
+  },
+  {
+    "Year": "65",
+    "Population": "Gorakhpur",
+    "Yearly %  Change": "674,246"
+  },
+  {
+    "Year": "66",
+    "Population": "Bhilai",
+    "Yearly %  Change": "625,138"
+  },
+  {
+    "Year": "67",
+    "Population": "Jamshedpur",
+    "Yearly %  Change": "616,338"
+  },
+  {
+    "Year": "68",
+    "Population": "Borivli",
+    "Yearly %  Change": "609,617"
+  },
+  {
+    "Year": "69",
+    "Population": "Cochin",
+    "Yearly %  Change": "604,696"
+  },
+  {
+    "Year": "70",
+    "Population": "Amravati",
+    "Yearly %  Change": "603,837"
+  }
+]
